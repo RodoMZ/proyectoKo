@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#9E9E9E</color> <!-- Light Gray -->
+
+    <color name="header">#E0E0E0</color> <!-- Lighter Gray -->
+    <color name="miColor">#7d7f7d</color> <!-- Deep Purple -->
+    <color name="blueLink">#03A9F4</color> <!-- Light Blue -->
+
+    <color name="fondo">#E6F5FF</color>
+    <color name="micolor">#FFFFFF</color>
+    <color name="background">#2E2E2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="barra">#3E50B4</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="primary_color">#3F51B5</color>
+
+    <color name="your_normal_color">#FF5722</color> <!-- Deep Orange for normal state -->
+    <color name="your_pressed_color">#E64A19</color> <!-- Darker shade of deep orange for pressed state -->
+    <color name="your_focused_color">#FF8A65</color> <!-- Lighter shade of deep orange for focused state -->
+    <color name="your_disabled_color">#BDBDBD</color> <!-- Light gray for disabled state -->
+
+    <color name="your_ripple_color">#4CAF50</color> <!-- Green for ripple effect -->
+    <color name="button_color">#FF9800</color> <!-- Orange color for the button -->
+    <color name="ripple_color">#000000</color> <!-- Lighter shade of orange for the ripple effect -->
+
+    <color name="red">#FFCC80</color>
+
+    <color name="primaryColor">#000000</color> <!-- Primary color -->
+    <color name="primaryDarkColor">#512DA8</color> <!-- Darker shade of primary color -->
+    <color name="onPrimaryColor">#FFFFFF</color> <!-- Text color on primary color -->
+    <color name="secondaryColor">#7d7f7d</color> <!-- Secondary color -->
+    <color name="secondaryDarkColor">#E64A19</color> <!-- Darker shade of secondary color -->
+    <color name="onSecondaryColor">#000000</color> <!-- Text color on secondary color -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Background color -->
+    <color name="hintColor">#9E9E9E</color> <!-- Hint text color -->
+</resources>
